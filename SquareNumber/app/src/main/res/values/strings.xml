@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SquareNumber</string>
+    <string name="insertNumber">Inserta un numero:</string>
+    <string name="press">Presioname</string>
+</resources>
